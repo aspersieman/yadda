@@ -1,0 +1,1 @@
+yadda - Yet Another Door for Database access acts as an easy way to access an existing database. It is a layer on top of SqlAlchemy's SqlSoup library and is intended to make accessing legacy databases easier.
